@@ -1,10 +1,11 @@
 /*
-Bu dosyayı asagıdaki yollar izlenerek localdeki veritabanınıza ekleyebilirsiniz...
-localhost/phpmyadmine giriniz.
-sol menuden yeni ifadesine tıklayın.
-veritabanı adı yazan kısıma 'kodhavuzu' yazın,oluştura basın.
-yukarıda bulunan menu kısımından 'SQL' ifadesine tıklayın.
-asagıdaki metni kopyalayıp yapıstırın.
+1-Bu dosyayı asagıdaki yollar izlenerek localdeki veritabanınıza ekleyebilirsiniz...
+2-localhost/phpmyadmine giriniz.
+3-sol menuden yeni ifadesine tıklayın.
+4-veritabanı adı yazan kısıma 'kodhavuzu' yazın,oluştura basın.
+5-yukarıda bulunan menu kısımından 'SQL' ifadesine tıklayın.
+6-asagıdaki metni kopyalayıp yapıstırın.
+7-Veritabanınıza eklenmiştir.
 */
 
 
