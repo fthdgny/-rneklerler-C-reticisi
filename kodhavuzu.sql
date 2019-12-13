@@ -1,11 +1,11 @@
-//Bu dosyayı asagıdaki yollar izlenerek localdeki veritabanınıza ekleyebilirsiniz...
-//localhost/phpmyadmine giriniz.
-//sol menuden yeni ifadesine tıklayın.
-//veritabanı adı yazan kısıma 'kodhavuzu' yazın,oluştura basın.
-//yukarıda bulunan menu kısımından 'SQL' ifadesine tıklayın.
-//asagıdaki metni kopyalayıp yapıstırın.
-
-
+/*
+Bu dosyayı asagıdaki yollar izlenerek localdeki veritabanınıza ekleyebilirsiniz...
+localhost/phpmyadmine giriniz.
+sol menuden yeni ifadesine tıklayın.
+veritabanı adı yazan kısıma 'kodhavuzu' yazın,oluştura basın.
+yukarıda bulunan menu kısımından 'SQL' ifadesine tıklayın.
+asagıdaki metni kopyalayıp yapıstırın.
+*/
 
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
